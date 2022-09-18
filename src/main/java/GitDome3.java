@@ -6,5 +6,6 @@ public class GitDome3 {
         System.out.println("I play JAVA");
         System.out.println("I love zmq");
         System.out.println("I love zmq very must");
+        System.out.println("I love zmq very must bast more");
     }
 }
